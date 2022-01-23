@@ -147,7 +147,7 @@ body {
 .t4,
 .t5 {
     background-size: auto 100%;
-    background-image: url(./image/ClickBefore.png);
+    background-image: url(./image/ClickBefore.jpg);
 }
 
 .tt1,
@@ -156,7 +156,7 @@ body {
 .tt4,
 .tt5 {
     background-size: auto 100%;
-    background-image: url(./image/AfterClicking.png);
+    background-image: url(./image/AfterClicking.jpg);
 }
 
 .bl {
@@ -197,7 +197,7 @@ body {
     -webkit-animation: flash .2s 3;
     animation: flash .2s 3;
     background-size: auto 100%;
-    background-image: url(./image/err.png);
+    background-image: url(./image/err.jpg);
 }
 
 * {
