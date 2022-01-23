@@ -1,9 +1,9 @@
 <p align="center">
-  <a href="https://xingye.me/game/eatkano"><img src="https://github.com/arcxingye/EatKano/blob/main/static/image/ClickBefore.png?raw=true" width="100" height="100" alt="EatKano"></a>
+  <a href="https://xingye.me/game/eatkano"><img src="https://github.com/arcxingye/EatKano/blob/main/static/image/ClickBefore.png?raw=true" width="100" height="100" alt="SaveingSayaka"></a>
 </p>
 <div align="center">
 
-# EatKano
+# Saveing Sayaka
 
 _🦌 网页小游戏 🥛_
 
@@ -12,13 +12,19 @@ _🦌 网页小游戏 🥛_
 
 ## 简介
 
-小游戏：吃掉小鹿乃
+改版小游戏：拯救沙耶香-吃掉小鹿乃（沙耶香版）
+
+本版本小游戏Github Page:https://badbrain2077.github.io/SaveingSayaka/index.html
+
+---
+
+原版小游戏：吃掉小鹿乃
 
 浏览量超10,000,000+
 
-线上版本:https://xingye.me/game/eatkano/index.php
+原版小游戏线上版本:https://xingye.me/game/eatkano/index.php
 
-Github Page:https://arcxingye.github.io/EatKano/index.html
+原版小游戏Github Page:https://arcxingye.github.io/EatKano/index.html
 
 ## 可选功能
 
